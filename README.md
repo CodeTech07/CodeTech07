@@ -1,5 +1,7 @@
 ## Hi, I'm  Jeet 😎
 
+A motivated and detail-oriented individual with a Diploma in Electronics and Telecommunication (ExTc). Skilled in front-end web development with experience in HTML, CSS, JavaScript, Bootstrap, and a basic understanding of MySQL. Passionate about building responsive and user-friendly web applications, with a strong willingness to learn and grow in the tech industry.
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jeet_t16) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jeetthakur1607@gmail.com) 
